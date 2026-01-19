@@ -41,11 +41,11 @@ My interests lie at the intersection of **AI research and applied machine learni
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandeepRaj&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Randeepraj2003&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandeepRaj&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randeepraj2003&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
