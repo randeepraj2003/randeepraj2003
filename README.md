@@ -8,13 +8,21 @@
 ---
 
 ##  About Me
-I am a Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience across machine learning, deep learning, and applied analytics. I specialize in building data-driven models that transform raw data into meaningful insights and intelligent solutions.
 
-My experience includes working on predictive analytics, natural language processing, computer vision, and federated learning systems, with a focus on scalability, performance, and real-world applicability. I have completed multiple industry-aligned projects and internships, where I applied Python, SQL, and modern machine learning frameworks to solve business and healthcare-related problems.
+<img align="right" alt="Data Science Illustration" width="280"
+src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/images/data_science.svg"/>
 
-I am particularly interested in AI-powered decision systems, model optimization, and end-to-end ML workflows, from data preprocessing and feature engineering to evaluation and deployment. With a strong problem-solving mindset and collaborative approach, I aim to contribute to impactful data science initiatives while continuously expanding my technical expertise.
+- Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
+- Experienced in building data-driven models that transform raw data into meaningful insights and intelligent solutions.
+- Worked across predictive analytics, natural language processing, computer vision, and federated learning, with a focus on scalability, performance, and real-world applicability.
+- Completed multiple industry-aligned projects and internships, applying Python, SQL, and modern machine learning frameworks to solve business and healthcare problems.
+- Strong interest in AI-powered decision systems, model optimization, and end-to-end ML workflows, including data preprocessing, feature engineering, model evaluation, and deployment.
+- Driven by a problem-solving mindset and a collaborative approach, with a continuous focus on learning and contributing to high-impact data science initiatives.
+
+<br clear="right"/>
 
 ---
+
 
 ###  Languages
 <p align="left">
