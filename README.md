@@ -15,7 +15,7 @@ src="https://github.com/user-attachments/assets/ae1fa033-8e87-4e3a-9f05-adca8e97
 
 
 
-- Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
+- Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science Engineering (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
 - Experienced in building data-driven models that transform raw data into meaningful insights and intelligent solutions.
 - Worked across predictive analytics, natural language processing, computer vision, and federated learning, with a focus on scalability, performance, and real-world applicability.
 - Completed multiple industry-aligned projects and internships, applying Python, SQL, and modern machine learning frameworks to solve business and healthcare problems.
