@@ -9,8 +9,10 @@
 
 ##  About Me
 
-<img align="right"  width="280"  alt="undraw_all-the-data_ijgn" 
-src="https://github.com/user-attachments/assets/0191c76a-88ee-456c-9bc7-0836dab1caa2" />
+<img align="right"  width="280" alt="undraw_artificial-intelligence_43qa (1)" 
+src="https://github.com/user-attachments/assets/a7a6b9ec-1658-4592-9dcf-644d0e5199e0" />
+
+
 
 
 - Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
