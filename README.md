@@ -10,7 +10,8 @@
 ##  About Me
 
 <img align="right" alt="Data Science Illustration" width="280"
-src=https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/images/ai.svg />
+src=<img width="1600" height="1142" alt="undraw_all-the-data_ijgn" src="https://github.com/user-attachments/assets/0191c76a-88ee-456c-9bc7-0836dab1caa2" />
+/>
 
 
 - Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
