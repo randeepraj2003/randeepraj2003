@@ -9,8 +9,8 @@
 
 ##  About Me
 
-<img align="right"  width="280" alt="undraw_artificial-intelligence_43qa (1)" 
-src="https://github.com/user-attachments/assets/a7a6b9ec-1658-4592-9dcf-644d0e5199e0" />
+<img align="right"  width="280" alt="undraw_all-the-data_ijgn" 
+src="https://github.com/user-attachments/assets/ae1fa033-8e87-4e3a-9f05-adca8e97e3d5" />
 
 
 
