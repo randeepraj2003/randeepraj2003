@@ -10,7 +10,8 @@
 ##  About Me
 
 <img align="right" alt="Data Science Illustration" width="280"
-src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/images/data_science.svg"/>
+src=https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png />
+
 
 - Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience in machine learning, deep learning, and applied analytics.
 - Experienced in building data-driven models that transform raw data into meaningful insights and intelligent solutions.
