@@ -30,13 +30,70 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
 
+---
+
 ### Data Engineering
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 </p>
+
+- ETL / ELT Pipelines
+- SQL & Database Design
+- Data Modeling
+- PostgreSQL
+- Data Warehousing Concepts
+- Data Validation
+- REST API Integration
+- Linux / Unix
+- Shell Scripting Basics
+- Workflow Orchestration (Apache Airflow Basics)
+- Git Version Control
+
+---
+
+### Data Science
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+</p>
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Statistical Analysis
+- Business Analytics
+- Data Visualization
+
+---
+
+### Machine Learning & AI
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Recommendation Systems
+- Federated Learning
+- Retrieval-Augmented Generation (RAG)
+- Model Training
+- Model Evaluation
+- Classification Models
+- TF-IDF
+- XGBoost
+
+---
 
 ### Tools
 
@@ -45,56 +102,45 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45"/>
 </p>
+
+---
 
 ### Libraries & Frameworks
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 </p>
 
-### Visualization & Analytics
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
-</p>
-
-### Data Science & AI
-
-<p align="left">
-  🔹 Machine Learning <br>
-  🔹 Deep Learning <br>
-  🔹 NLP <br>
-  🔹 Federated Learning <br>
-  🔹 RAG Applications <br>
-  🔹 Recommendation Systems <br>
-  🔹 Feature Engineering <br>
-  🔹 Model Evaluation
-</p>
-
-### Data Engineering Skills
-
-<p align="left">
-  🔹 SQL & Database Design <br>
-  🔹 ETL / ELT Pipelines <br>
-  🔹 Data Cleaning & Transformation <br>
-  🔹 REST API Integration <br>
-  🔹 Data Validation <br>
-  🔹 PostgreSQL <br>
-  🔹 Linux Commands <br>
-  🔹 Git Workflow <br>
-  🔹 Apache Airflow (Learning)
-</p>
+- Pandas
+- NumPy
+- Scikit-Learn
+- PyTorch
+- TensorFlow
+- NLTK
+- spaCy
+- FastAPI
+- Streamlit
 
 ---
 
+### Visualization & Analytics
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+</p>
+
+- Power BI
+- Matplotlib
+- Seaborn
+- Excel
+- Dashboard Development
+
+---
 
 
 ##  Connect With Me
