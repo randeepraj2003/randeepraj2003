@@ -41,17 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
-- ETL / ELT Pipelines
-- SQL & Database Design
-- Data Modeling
-- PostgreSQL
-- Data Warehousing Concepts
-- Data Validation
-- REST API Integration
-- Linux / Unix
-- Shell Scripting Basics
-- Workflow Orchestration (Apache Airflow Basics)
-- Git Version Control
 
 ---
 
@@ -63,13 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
 </p>
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Preprocessing
-- Feature Engineering
-- Statistical Analysis
-- Business Analytics
-- Data Visualization
+
 
 ---
 
@@ -81,17 +64,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 </p>
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Recommendation Systems
-- Federated Learning
-- Retrieval-Augmented Generation (RAG)
-- Model Training
-- Model Evaluation
-- Classification Models
-- TF-IDF
-- XGBoost
+
+
 
 ---
 
@@ -116,15 +90,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 </p>
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- PyTorch
-- TensorFlow
-- NLTK
-- spaCy
-- FastAPI
-- Streamlit
+
 
 ---
 
@@ -134,11 +100,7 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
 </p>
 
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
-- Dashboard Development
+
 
 ---
 
